@@ -206,22 +206,6 @@ data.
 
 ---
 
-## Repository Structure
-
-```
-├── binding_affinity_prediction.ipynb   # full analysis notebook
-├── dataset_CASF-2016_285                # ligand + pocket-surface graphs (285 complexes)
-├── casf2016_pka_labels.csv              # PDB ID → pKa labels (CASF-2016 core set)
-├── images/                              # figures referenced in this README
-│   ├── eda_overview.png
-│   ├── model_comparison.png
-│   ├── shap_summary.png
-│   └── shell_correlation.png
-└── README.md
-```
-
----
-
 ## Limitations & Future Work
 
 - No independent train/test split — only the 284-complex core set was available, so all
