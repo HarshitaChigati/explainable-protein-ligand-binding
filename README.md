@@ -1,4 +1,4 @@
-# Explainable Structure-Based Protein-Ligand Binding Affinity Prediction
+# Explainable Protein–Ligand Binding Affinity Modeling
 
 An explainable machine learning framework for protein–ligand binding affinity prediction that uses an ablation-style comparison of ligand-only, protein-surface-only, and combined feature sets to quantify how much predictive signal each contributes individually and jointly under the real-world constraint that atom-level protein representations were unavailable.
 
